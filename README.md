@@ -4,11 +4,11 @@ I am a motivated and curious student who enjoys learning how technology works. I
 
 I enjoy solving problems, working with others, and trying new ideas. I learn quickly and I am always looking for new opportunities to improve.
 
-💼 About Me
+About Me
 
 I am a person who loves technology and learning new things. I enjoy working on projects that help me improve my skills and discover new areas of development.
 
-🛠️ Skills
+Skills
 
 Languages: [JavaScript, Python, Java...]
 Tools: *[Example: Git]
