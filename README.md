@@ -13,6 +13,6 @@ Skills
 Languages: [JavaScript, Python, Java...]
 Tools: *[Example: Git]
 Other skills: [Example: teamwork, problem solving...]
-📬 Contact
 
+Contact:
 Email: juanmapolo9@gmail.com
